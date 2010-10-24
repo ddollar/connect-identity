@@ -1,0 +1,26 @@
+{
+  "name":        "connect-identity",
+  "description": "Long-lasting identity for connect apps",
+  "main":        "./index",
+  "author":      "David Dollar",
+  "version":     "0.1.0",
+  "dependencies": { 
+    "connect": ">= 0.2.7",
+    "hash":    ">= 0.06.0",
+    "joose":   ">= 3.13.0",
+    "joosex-namespace-depended": ">= 0.10.0"
+  },
+  "repository" : {
+    "type": "git",
+    "url":  "http://github.com/ddollar/connect-identity.git"
+  },
+  "bugs": {
+    "web": "http://github.com/ddollar/connect-identity/issues"
+  },
+  "licenses" : [
+    {
+      "type": "MIT",
+      "url":  "http://github.com/ddollar/connect-identity/raw/master/LICENSE"
+    }
+  ]
+}
