@@ -17,3 +17,7 @@
     app.get('/', function(request, response) {
       console.log(request.identity);
     })
+
+## Thanks
+
+  Borrows heavily from [connect-sessions](http://github.com/caolan/cookie-sessions)
