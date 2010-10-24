@@ -3,7 +3,7 @@
   "description": "Long-lasting identity for connect apps",
   "main":        "./index",
   "author":      "David Dollar",
-  "version":     "0.1.0",
+  "version":     "0.1.1",
   "dependencies": { 
     "connect": ">= 0.2.7",
     "hash":    ">= 0.06.0",
